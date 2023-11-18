@@ -1,4 +1,3 @@
-// Viral Science www.viralsciencecreativity.com www.youtube.com/c/viralscience
 // Arduino Car Parking System
 
 #include <Wire.h> 
